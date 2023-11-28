@@ -7,7 +7,7 @@ Este paqueteproporciona una forma simple de obtener saludos personalizados
 Ejecuta el siguiente comando para instalar el paquete:
 
 ```
-go get -u guthub.com/juanse036/greetingsgolang
+go get -u github.com/juanse036/greetingsgolang
 ```
 
 ## Uso
